@@ -2,7 +2,7 @@
 
 ## Autor
 
-Projeto desenvolvido por Gabriel Roger do Nascimento.
+Projeto desenvolvido por Felipe Neri.
 
 
 ## Fonte de dados
